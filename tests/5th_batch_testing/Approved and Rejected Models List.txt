@@ -1,0 +1,16 @@
+Approved
+2_relu_lowest_val_loss_0.4612
+2_tanh_lowest_val_loss_0.3709
+4_tanh_lowest_val_loss_0.4316
+6_relu_lowest_val_loss_0.4148
+6_tanh_lowest_val_loss_0.3665
+9_tanh_lowest_val_loss_0.4403
+11_relu_lowest_val_loss_0.4707
+13_relu_lowest_val_loss_0.4382_b4
+
+Rejected
+1_relu_lowest_val_loss_0.6168
+7_relu_lowest_val_loss_0.6004
+10_relu_lowest_val_loss_0.5046
+10_tanh_lowest_val_loss_0.6092
+12_relu_lowest_val_loss_0.5919
