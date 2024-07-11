@@ -5,7 +5,11 @@ For this project, I created a simple deep-learning model from scratch and traine
 For this experiment, a simple tabular data was used from kaggle's competition 'Titanic Survival Prediction'. `'train.csv'` and `'test.csv'` consist of the tabular data that were used to create training/validation sets and test set, respectively.
 
 ### Scripts
-`'main.py'` and `'predict.py'` were used to train and infer, respectively. Complete model architecture + tensorflow implementation of training the model can be seen in `'main.py'`. `'predict.py'` contains ensembling of 8 models that were finalized. The final answer is the average of all predictions that are made by the finalized models. 
+`'main.py'` and `'predict.py'` were used to train and infer, respectively. 
+
+`'main.py'` contains complete model architecture + tensorflow implementation of training the model.
+
+`'predict.py'` contains ensembling of 8 models that were finalized. The final answer is the average of all predictions that are made by the finalized models. 
 
 ### Tests
 `'tests'` folder contain images of graphical representation of models training on training and validation sets. Testing starts with **20** models initialized, as can be seen in `'1st_batch_testing'` folder. As I proceed, I reject and approve models for next batch testing based on their results and hyperparameters.
