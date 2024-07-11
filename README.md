@@ -1,3 +1,5 @@
+# Training Deep Learning Model from Scratch on Tabular Dataset
+
 ### Idea
 For this project, I created a simple deep-learning model from scratch and trained it by fientuning hyperparameters to maximize accuracy and minimize loss. The data set used was a simple tabular data of 1000 rows approx. and the model's architecture consisted of **Dense layers**, followed by **Batch Normalization layers** and **Dropout layers**. 
 
